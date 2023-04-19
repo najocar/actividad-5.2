@@ -26,4 +26,6 @@ public class Calculadora {
     double raizCuadrada(double radicando) {
         return Math.sqrt(radicando);
     }
+
+    //...
 }
